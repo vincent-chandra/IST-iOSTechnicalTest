@@ -1,0 +1,6 @@
+framework module Pods_IST_iOSTechnicalTest {
+  umbrella header "Pods-IST-iOSTechnicalTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
